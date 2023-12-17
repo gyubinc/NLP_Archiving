@@ -4,7 +4,7 @@
 
 ☆ : 관심 있음
 
-## 1. 데이터
+## 1. 데이터, 전처리
 
 Efficient Estimation of Word Representations in Vector Space(2013) ★
 
