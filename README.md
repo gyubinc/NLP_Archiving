@@ -24,15 +24,15 @@ Enriching Word Vectors with Subword Information(2016) ★
 
 AEDA: An Easier Data Augmentation Technique for Text Classification (2022) ☆
 
-Punctuation(온점,세미콜론…)을 통한 데이터 증강
+* Punctuation(온점,세미콜론…)을 통한 데이터 증강
 
-*	Neural Machine Translation of Rare Words with Subword Units (2022) ★
+Neural Machine Translation of Rare Words with Subword Units (2022) ★
 
-BPE(Byte Pair Encoding)을 사용한 subword tokenizer 개발
+* BPE(Byte Pair Encoding)을 사용한 subword tokenizer 개발
 
-*	Judging a Book by its Cover (2023) ★
+Judging a Book by its Cover (2023) ★
 
-책 표지, 장르 데이터셋 구축
+* 책 표지, 장르 데이터셋 구축
 
 <br>
 
