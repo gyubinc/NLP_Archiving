@@ -126,6 +126,14 @@ Curriculum Learning for Natural Language Understanding (2020) ★
 
 *	curriculum learning, 점진적으로 맞추기 어려운 훈련 데이터 학습
 
+Dense Passage Retrieval for Open-Domain Question Answering (2020) ★ 
+
+* DPR, BERT 구조로 임베딩 -> 내적으로 유사도 측정 
+
+Learning Dense Representations of Phrases at Scale (2021) ☆
+
+* DensePhrases, DPR과 달리 구문 단위 임베딩 하여 복잡한 문제에 특화
+
 GPT Understands, Too (2021) ★
 
 *	P-Tuning, 다양한 task에 대한 모델 일반화
